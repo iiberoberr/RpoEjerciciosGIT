@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 	Capitulo 0: Introducción a entornos de desarrollo
 		apartado1: ewoituer
 		apartado2: ew	kuhqeilwgf
+=======
+	Capitulo 0: Introducción a entornos de desarrollo
+>>>>>>> ce6ac92cf825fd29871ac6afe0ff9e7ba27641c9
 	Capitulo 1: Repositorios de Código
+		apartado 1: que es?
+		apartado 2: como es?
 	Capítulo 2: UML 
        Capítulo 3: gestión de ramas
-
