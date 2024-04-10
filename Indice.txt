@@ -1,5 +1,8 @@
 	Capitulo 0: Introducción a entornos de desarrollo
+		apartado 1: que es?
+		apartado 2: como es?
 	Capitulo 1: Repositorios de Código
+		apartado 1: que es?
+		apartado 2: como es?
 	Capítulo 2: UML 
        Capítulo 3: gestión de ramas
-
