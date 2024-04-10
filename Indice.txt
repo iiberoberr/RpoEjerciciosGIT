@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 	Capitulo 0: Introducción a entornos de desarrollo
 		apartado1: ewoituer
 		apartado2: ew	kuhqeilwgf
